@@ -1,4 +1,4 @@
-## Plant Light Monitoring Device
+## plant-light-monitoring-iot
 
 This project is a plant light monitoring device built using Bolt IoT. It measures the light intensity around a plant and sends the data to the cloud for analysis. This README provides an overview of the project, hardware requirements, setup instructions, and usage guide.
 
